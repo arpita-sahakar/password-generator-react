@@ -2,5 +2,9 @@
   text-align: center;
   background-color: rgb(182, 169, 145);
 }
-
+.passwordDisplay {
+  text-align: center;
+  font-size: 20px;
+  font-weight: 900;
+}
 
